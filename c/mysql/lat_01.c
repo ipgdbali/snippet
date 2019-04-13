@@ -1,5 +1,6 @@
 //MYSQL Snippet Code
 //Latihan 01
+//Basic client operation
 //Listing Database for supplied host, username and password
 
 #include <stdio.h>
